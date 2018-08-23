@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NewsFeedApp</string>
+
+    <string name="titleBarText_NewsStory">Done</string>
+    <string name="titleBarText_NewsFeed">All Stories</string>
+</resources>
