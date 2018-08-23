@@ -3,4 +3,6 @@
 
     <string name="titleBarText_NewsStory">Done</string>
     <string name="titleBarText_NewsFeed">All Stories</string>
+
+    <string name="newsFeedImageAlternativeText">News Feed Image</string>
 </resources>
